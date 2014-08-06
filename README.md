@@ -7,7 +7,7 @@ It also has the support for *starttls*.
 Special Note:
 -------------
 
-This project is not mine. 
+The SASL and starttls implementation is mine. Other than this project is not mine. 
 
 Implementation:
 ---------------
