@@ -2,7 +2,7 @@ jabsimul-with-sasl
 ==================
 
 Jabsimul with SASL Integration is a benchmarking tool for Jabber/XMPP Servers which have SASL authentication.
-It also has the support for starttls.
+It also has the support for *starttls*.
 
 Special Note:
 -------------
