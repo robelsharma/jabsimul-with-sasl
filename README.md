@@ -70,18 +70,20 @@ Implementation details are available [here](https://developers.google.com/cloud-
 
 How To's:
 --------
-
+```
 cd jabsimul/jab_simul/
 vi jab_simul.xml
+```
 
 Change *<server>jabber.localhost</server>* to your XMPP server address. Fill the xml file with you necessary configuration.
 
 Compile it:
-
+```
 ./configure
 make
-
+```
 
 Now you can execute it:
-
+```
 ./jab_simul
+```
