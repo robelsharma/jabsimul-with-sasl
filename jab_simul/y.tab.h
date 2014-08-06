@@ -1,0 +1,14 @@
+#define NOTHING_SPECIAL 257
+#define BEGIN_EXPR 258
+#define END_EXPR 259
+#define OP_PLUS 260
+#define OP_MINUS 261
+#define OP_MUL 262
+#define OP_DIV 263
+#define OP_MOD 264
+#define NUMBER 265
+#define INDEX 266
+#define RND 267
+#define LNAWIAS 268
+#define PNAWIAS 269
+#define VARIABLE 270
